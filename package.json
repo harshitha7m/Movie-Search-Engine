@@ -1,0 +1,21 @@
+{
+  "name": "session_3",
+  "version": "1.0.0",
+  "description": "This is the Movie Searching Project using API",
+  "repository": {
+    "type": "git",
+    "url": "harshitha7m"
+  },
+  "license": "MIT",
+  "author": "Harshitha M",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
